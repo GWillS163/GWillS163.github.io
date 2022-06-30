@@ -11,13 +11,11 @@ show my masterpiece！
 
 Furthermore, In my experience, the frontend design is essential too. so please make a look at the following!
 >![Index.html preview](readme_md_files/1d661190-f885-11ec-ac67-19c1ff404f65.jpeg?v=1&type=image)
->the sketch:
-><div align=center>
-<img src="rreadme_md_files/0e22ae30-f887-11ec-ac67-19c1ff404f65.jpeg?v=1&type=image" width = "300" height = "300" alt="图片名称"/>
-<p>Sketch</p></div>
+>the sketch :D :
+>![sketch](readme_md_files/0e22ae30-f887-11ec-ac67-19c1ff404f65.jpeg?v=1&type=image)
 >  the up to date design effect is in the URL below, 
 >  
-[you can send a mail to me if u  want to see it but can't access it:](https://mastergo.com/file/65280321600773?page_id=:10518&source=link_share)
+> [you can send a mail to me if u  want to see it but can't access it:](https://mastergo.com/file/65280321600773?page_id=:10518&source=link_share)
 
 
 
