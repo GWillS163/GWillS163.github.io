@@ -14,16 +14,13 @@ show my masterpiece！
 
 Furthermore, In my experience, the frontend design is essential too. so please make a look at the following!
 >![Index.html preview](readme_md_files/1d661190-f885-11ec-ac67-19c1ff404f65.jpeg?v=1&type=image)
+
 >the sketch:
 >![sketch](readme_md_files/0e22ae30-f887-11ec-ac67-19c1ff404f65.jpeg?v=1&type=image)
 >
 >  the up to date design effect is in the URL below, 
 >  [browse the newest design](https://mastergo.com/file/65280321600773?page_id=:10518&source=link_share)  ![](readme_md_files/06c13e90-f8f0-11ec-9c6b-b369a133ca3b.jpeg?v=1&type=image 🤩
 >  *you can send a mail to me(realGWillS@gmail.com) if u  want to see it but can't access it*
-
-
-
-
 
 ### Example
 ##### Update many documents
