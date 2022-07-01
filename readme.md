@@ -1,8 +1,11 @@
-## Welcome to my Home
+## What is GWillS doing now?
 
-### What is JunQingQing doing now?
+### the introduce for some plan
 Actually， there are three sections, develop an Assignment submission site so that students can submit assignments as soon as possible correctly.
->  Now, I'm using UML Diagram with my project, It seems to me, my new project that will be swift, maintainable, and more clear than ever by using the philosophy of software engineering on my project in all projects. I learned recently how to build a nice code construct and clear code style.
+and learning for the IETLS test, and the spring technology.
+ > Now, because I'm developing my project using UML Diagram auxiliarly, It seems to me, that the method will be more swift, maintainable, and clear than my all projects before.
+> Recently, I learned how to build a nice code construct and clear code style by using the philosophy of software engineering on my project. 
+> at one day, I will develop fabulous software finally.
 Boom ~
 show my masterpiece！
 > ![draw a use case diagram](readme_md_files/70537820-f885-11ec-ac67-19c1ff404f65.jpeg?v=1&type=image)
@@ -12,12 +15,12 @@ show my masterpiece！
 Furthermore, In my experience, the frontend design is essential too. so please make a look at the following!
 >![Index.html preview](readme_md_files/1d661190-f885-11ec-ac67-19c1ff404f65.jpeg?v=1&type=image)
 >the sketch:
-><div align=center>
-<img src="rreadme_md_files/0e22ae30-f887-11ec-ac67-19c1ff404f65.jpeg?v=1&type=image" width = "300" height = "300" alt="图片名称"/>
-<p>Sketch</p></div>
+>![sketch](readme_md_files/0e22ae30-f887-11ec-ac67-19c1ff404f65.jpeg?v=1&type=image)
+>
 >  the up to date design effect is in the URL below, 
->  
-[you can send a mail to me if u  want to see it but can't access it:](https://mastergo.com/file/65280321600773?page_id=:10518&source=link_share)
+>  [browse the newest design](https://mastergo.com/file/65280321600773?page_id=:10518&source=link_share)  ![](readme_md_files/06c13e90-f8f0-11ec-9c6b-b369a133ca3b.jpeg?v=1&type=image 🤩
+>  *you can send a mail to me(realGWillS@gmail.com) if u  want to see it but can't access it*
+
 
 
 
@@ -25,7 +28,7 @@ Furthermore, In my experience, the frontend design is essential too. so please m
 ### Example
 ##### Update many documents
 
-The same way I was able to update one document with `updateOne()`, I can update multiple documents with `updateMany()`.
+In the same way I was able to update one document with `updateOne()`, I can update multiple documents with `updateMany()`.
 
     filter = eq("student_id", 10001);
     updateResult = gradesCollection.updateMany(filter, updateOperation);
@@ -62,5 +65,6 @@ The `findOneAndUpdate()` method allow you to combine these two operations in one
 > **Standard Application**
 > 
 > I just didn't use my account for a long time, I didn't reach any rules, and I couldn't receive confirm codes and calls too, on my phone when I wanna resolve the secure problem by verifying my phone number.
- - [x] Updated at 2022-6-30 23:12:47 UTC +8
+- [x] Updated at 2022-7-1 11:46:13
+ - [ ] Updated at 2022-6-30 23:12:47 UTC +8
 - [ ] Post at 2022-6-29 17:11:46
