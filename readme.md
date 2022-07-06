@@ -1,7 +1,8 @@
 ## What is GWillS doing now?
 ### the one is using student package:
  [Please into my page to see what tools I learned, you can comment this,😉](https://www.notion.so/junqingqing/Developing-Package-use-status-summarize-98ccaf87a9254828891dc9fa119a7df4)
-<img src="https://user-images.githubusercontent.com/49674629/177457594-de299e0d-4327-4ef3-ae8a-cbc983c2074f.png" width="300" align="center">
+ 
+<img src="https://user-images.githubusercontent.com/49674629/177457594-de299e0d-4327-4ef3-ae8a-cbc983c2074f.png" width="500" align="center">
 
 ### the introduce for some plan
 Actually， there are three sections, develop an Assignment submission site so that students can submit assignments as soon as possible correctly.
