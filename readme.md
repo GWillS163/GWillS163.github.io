@@ -1,30 +1,60 @@
-## What is GWillS doing now?
-### the one is using student package:
- [Please into my page to see what tools I learned, you can comment this,😉](https://junqingqing.notion.site/Developing-Package-use-status-summarize-98ccaf87a9254828891dc9fa119a7df4)
+# Personal Introduction 🌟
 
-<img src="https://user-images.githubusercontent.com/49674629/177457594-de299e0d-4327-4ef3-ae8a-cbc983c2074f.png" width="700" align="center">
+## Welcome 👋
 
-### the introduce for some plan
-Actually， there are three sections, develop an Assignment submission site so that students can submit assignments as soon as possible correctly.
-and learning for the IETLS test, and the spring technology.
- > Now, because I'm developing my project using UML Diagram auxiliarly, It seems to me, that the method will be more swift, maintainable, and clear than my all projects before.
-> Recently, I learned how to build a nice code construct and clear code style by using the philosophy of software engineering on my project. 
-> at one day, I will develop fabulous software finally.
-Boom ~
-show my masterpiece！
-> ![draw a use case diagram](readme_md_files/70537820-f885-11ec-ac67-19c1ff404f65.jpeg?v=1&type=image)
-> 
-> And .... Is the following diagram right?![data base diagram](readme_md_files/933f70f0-f885-11ec-ac67-19c1ff404f65.jpeg?v=1&type=image)
+Hello everyone! I’m **Jordan Lee**, an adventurous dreamer with a boundless curiosity about the world. 🌍 While I can't share detailed personal information at the moment, I’m excited to share some of my fantastical experiences and interests with you. 🚀
 
-Furthermore, In my experience, the frontend design is essential too. so please make a look at the following!
->![Index.html preview](readme_md_files/1d661190-f885-11ec-ac67-19c1ff404f65.jpeg?v=1&type=image)
+## My Story 📖
 
->the sketch:
->![sketch](readme_md_files/0e22ae30-f887-11ec-ac67-19c1ff404f65.jpeg?v=1&type=image)
->
->  the up to date design effect is in the URL below, 
->  [>browse the newest design<](https://mastergo.com/file/65280321600773?page_id=:10518&source=link_share)   
->  *you can send a mail to me(realGWillS@gmail.com) if u  want to see it but can't access it*🤩
+I was born on the mysterious **Alpha Planet** 🌌, and from a young age, I was fascinated by Earth’s culture and technology. After many years of interstellar travel 🌠, I finally arrived on Earth to explore all the astonishing things this planet has to offer. 🌟
+
+## Areas of Expertise 💫
+
+During my interstellar travels, I have mastered many unique skills, including but not limited to:
+
+- **Quantum Leap**: A technology that allows instantaneous travel across the universe. 🛸
+- **Time Weaving**: The ability to traverse through the flow of time and experience different historical moments. ⏳
+- **Virtual Reality Realm Creation**: Crafting unbelievable virtual worlds and experiences. 🕶️
+
+## Hobbies and Interests 🎨
+
+I am passionate about many things, and here are some of the activities I enjoy:
+
+- **Interstellar Photography**: Capturing the most breathtaking scenes in the universe. 📸✨
+- **Exotic Cuisine Tasting**: Sampling dishes from various planets. 🍲🪐
+- **Superpower Training**: Continuously enhancing my abilities and skills. 💪🔮
+
+## Dreams and Goals 🌠
+
+My dreams are:
+
+- **Exploring the Unknown**: Continually discovering and exploring new and intriguing things in the universe. 🛰️
+- **Sharing Experiences**: Sharing my experiences and knowledge from space with more Earth inhabitants. 🌍💬
+- **Promoting Peace**: Using my skills and wisdom to help resolve conflicts and issues in the universe. ✨🌏
+
+## Contact Me 📬
+
+- **Interstellar Email**: j.lee@galacticmail.com 📧
+- **Cosmic Social Network**: [starnet.com/jordanlee](https://starnet.com/jordanlee) 🌌
+- **Interstellar Forum**: [forum.galacticexplorers.com/jordanlee](https://forum.galacticexplorers.com/jordanlee) 🪐
+
+---
+
+Thank you for your interest! I hope we can meet somewhere in the universe and share more exciting adventure stories. 🌟🚀
+
+---
+
+### Extra Fun! 🌟
+
+Here's a little extra touch of fun with some emoticons: 
+
+- Happy: ~~~///(^v^)\\\~~~
+- Excited: ~~~(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧~~~
+- Curious: ~~~(◕‿◕)~~~
+- Cheerful: ~~~(*^_^*)~~~
+- Surprised: ~~~(⊙_☉)~~~
+
+I hope these bring a smile to your face! 😊
 
 ### Example
 ##### Update many documents
